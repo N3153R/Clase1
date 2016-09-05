@@ -12,4 +12,8 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 //NNNNkjhfkjhfhj
+<<<<<<< HEAD
 //neisesssss
+=======
+//dfgsdfhshsfghsfghsfghsfgh
+>>>>>>> origin/master

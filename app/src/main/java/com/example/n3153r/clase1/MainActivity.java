@@ -11,9 +11,3 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
-//NNNNkjhfkjhfhj
-<<<<<<< HEAD
-//neisesssss
-=======
-//dfgsdfhshsfghsfghsfghsfgh
->>>>>>> origin/master

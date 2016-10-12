@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\N3153R\\AndroidStudioProjects\\UPAGU\\Clase1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_mayte.png",
+        "source": "C:\\Users\\N3153R\\AndroidStudioProjects\\UPAGU\\Clase1\\app\\src\\main\\res\\mipmap-hdpi\\ic_mayte.png"
+    },
+    {
+        "merged": "C:\\Users\\N3153R\\AndroidStudioProjects\\UPAGU\\Clase1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_upagu.png",
+        "source": "C:\\Users\\N3153R\\AndroidStudioProjects\\UPAGU\\Clase1\\app\\src\\main\\res\\mipmap-hdpi\\ic_upagu.png"
+    },
+    {
+        "merged": "C:\\Users\\N3153R\\AndroidStudioProjects\\UPAGU\\Clase1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\N3153R\\AndroidStudioProjects\\UPAGU\\Clase1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

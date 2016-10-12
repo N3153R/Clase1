@@ -4,4 +4,13 @@
     <string name="mensaje1">Grande en verde</string>
     <string name="mensaje2">Reducido en rojo</string>
     <string name="mensaje3">Reducido en amarillo</string>
+    <string name="x_10_y_40">x=10 y=40</string>
+    <string name="x_120_y_10">x=120 y=10</string>
+    <string name="neiser">neiser</string>
+    <string name="circulo">circulo</string>
+    <string name="cuadrado">cuadrado</string>
+    <string name="usuario">Usuario:</string>
+    <string name="code">Codigo:</string>
+    <string name="primero">PRIMERO</string>
+    <string name="segundo">SEGUNDO</string>
 </resources>

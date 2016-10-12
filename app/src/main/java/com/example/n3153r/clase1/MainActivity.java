@@ -56,9 +56,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
             case  R.id.btnNueva:
                 Intent intent = new Intent(this,Main2Activity.class);
-//
                 startActivity(intent);
-
                 break;
             default:
                 break;
